@@ -5,6 +5,7 @@ Melanoma is a type of cancer that can be deadly if not detected early. It accoun
 * [Data Reading](#data-reading)
 * [Dataset Creation & Visuvalisation](#dataset-creation-and-visualisation)
 * [Base Model](#base-model)
+* [Augmentation Strategy](#augmentation-strategy)
 * [Model Building](#model-building)
 * [Class Imbalance](#class-imbalance)
 * [Final Model](#final-model)
