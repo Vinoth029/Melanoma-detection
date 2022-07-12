@@ -111,7 +111,6 @@ Accuracy has got increased after including the augumented samples using Augmento
 ## Libraries Used
 
 ``` python
-
 from tensorflow.keras.layers import Dense, Dropout, Activation, Flatten, Conv2D, MaxPool2D
 from tensorflow.keras.layers import BatchNormalization
 from tensorflow.keras.models import Sequential
