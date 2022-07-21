@@ -125,5 +125,4 @@ import numpy as np
 import PIL
 import cv2
 import os
-
 ```
